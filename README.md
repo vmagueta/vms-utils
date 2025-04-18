@@ -8,8 +8,11 @@ This repo serves as a centralized toolbox for my most-used utilities — making 
 
 ## 🧰 Contents
 
-> Examples (to be updated as the repo grows):
+> Current utilities:
 
+- **cli-scripts/rename_files.py**  
+  Rename files in a folder by replacing a specific prefix with a new one.  
+  Useful for batch renaming assets like images or documents based on naming conventions.
 
 ## 🚀 Usage
 
